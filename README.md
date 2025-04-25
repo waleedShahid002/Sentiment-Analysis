@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+The following repository contains a sentiment analysis project which classifies the sentiment of text weather it is positive, negative or neutral. The model which is used for this is a pre-trained bert model and sentiment 140 dataset is used which has three classes positive, neagative or neutral. A html page is also designed so that the end user can easily use this system by simply typing the text and model will classify its text. For this an API is designed using flask to interact the model with front page.
